@@ -8,7 +8,7 @@ This project is a **multi-threaded web server** written in **Rust**. It demonstr
 - **Static file serving**: It serves HTML pages (e.g., `index.html`, `404.html`).
 - **Custom routes**: You can add custom paths to test the server.
 
-![alt text](assets/Server-2.JPG)
+![alt text](assets/Server-1.JPG)
 ![alt text](assets/Server-2.JPG)
 
 
